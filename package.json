@@ -3,10 +3,11 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "git@github.com:hubingliang/leetcode.git",
-  "author": "bingliang.hu <bingliang.hu@gmail.com>",
+  "author": "bingliang.hu <brianhu.cn@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "test:watch": "jest --watchAll"
+    "test:watch": "jest --watchAll",
+    "random": "node scripts/random.js"
   },
   "devDependencies": {
     "@types/jest": "^28.1.8",
