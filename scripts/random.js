@@ -4,5 +4,6 @@ const questionBank = [
   "https://leetcode.cn/problems/two-sum/",
   "https://leetcode.cn/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/",
   "https://leetcode.cn/problems/fan-zhuan-lian-biao-lcof/?plan=lcof&plan_progress=gbpnwlg",
+  "https://leetcode.cn/problems/fu-za-lian-biao-de-fu-zhi-lcof/?envType=study-plan&id=lcof",
 ];
 console.log(questionBank[Math.floor(Math.random() * questionBank.length)]);
