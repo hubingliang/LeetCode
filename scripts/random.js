@@ -8,5 +8,6 @@ const questionBank = [
   "https://leetcode.cn/problems/ti-huan-kong-ge-lcof/?envType=study-plan&id=lcof",
   "https://leetcode.cn/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/?envType=study-plan&id=lcof",
   "https://leetcode.cn/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/?envType=study-plan&id=lcof",
+  "https://leetcode.cn/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/?envType=study-plan&id=lcof",
 ];
 console.log(questionBank[Math.floor(Math.random() * questionBank.length)]);
