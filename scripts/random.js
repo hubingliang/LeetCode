@@ -10,7 +10,8 @@ const questionBank = [
   "https://leetcode.cn/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/?envType=study-plan&id=lcof",
   "https://leetcode.cn/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/?envType=study-plan&id=lcof",
   "https://leetcode.cn/problems/que-shi-de-shu-zi-lcof/?plan=lcof&plan_progress=gbpnwlg",
-  "https://leetcode.cn/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/"
+  "https://leetcode.cn/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/",
+  "https://leetcode.cn/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/?envType=study-plan&id=lcof",
 ];
 console.log(questionBank[Math.floor(Math.random() * questionBank.length)]);
 console.log(questionBank[Math.floor(Math.random() * questionBank.length)]);
