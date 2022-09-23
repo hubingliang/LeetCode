@@ -12,6 +12,8 @@ const questionBank = [
   "https://leetcode.cn/problems/que-shi-de-shu-zi-lcof/?plan=lcof&plan_progress=gbpnwlg",
   "https://leetcode.cn/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/",
   "https://leetcode.cn/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/?envType=study-plan&id=lcof",
+  "https://leetcode.cn/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/",
+  "https://leetcode.cn/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/",
 ];
 console.log(questionBank[Math.floor(Math.random() * questionBank.length)]);
 console.log(questionBank[Math.floor(Math.random() * questionBank.length)]);
